@@ -8,6 +8,6 @@
 
 ## Установка
 ```bash
-git clone https://github.com/nikonovaonline/qr-catalog.git
+git clone https://github.com/ваш-логин/qr-catalog.git
 cd qr-catalog
 pip install -r requirements.txt
